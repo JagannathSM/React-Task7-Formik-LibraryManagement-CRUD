@@ -18,7 +18,7 @@ Currently, two official plugins are available:
 
 # How To Use
 
-1. User need to enter UserName and Password in login page. Username --> atleast 5 chars (only alphabets) // Password --> only 6 digits (only numbers) [Note : Login page is will not veify the user // Dont know is it also the requirement for this task]
+1. User need to enter UserName and Password in login page. Username --> atleast 5 chars (only alphabets) // Password --> only 6 digits (only numbers) [Note : Login page is will not verify the user // Dont know is it also the requirement for this task]
 2. User can find there Books and Author list in dashboard + Application Info to know more about webpage design.
 3. User can add new Author and Books (Menu Button --> Add Author / Add Book button)
 4. User can able to edit / add Book and author Detail [Formik Validations are done]
